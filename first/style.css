@@ -1,0 +1,78 @@
+html, body {	width: 100%;
+	background: white;
+}
+
+.container {
+	padding: 15px;
+}
+.parent {
+}
+.box {
+	width: 30.5%;
+	height: 125px;
+	float: left;
+	position: static;
+	margin: 15px;
+}
+.one {
+	background: #D0021B;
+}
+.two {
+	background: #4A90E2;
+}
+	
+.three {
+	background: #4A4A4A;
+}
+.ipsum {
+	clear: both;
+	width: 100%;
+	background: white;
+	height: 100px;
+	margin: 15px;
+}
+
+.ipsum p {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.big {
+	height: 300px;
+	float: left;
+
+}
+.red {
+	width: 30%;
+	height: 200px;
+	margin: 15px, 0px, 15px, 15px;
+	background: #D0021B;
+}
+.blue {
+	width: 70%;
+	height: 200px;
+	margin: 15px, 15px, 15px, 0px;
+	float left;
+	background: #4A90E2;
+}
+.skinny {
+	height: 100px;
+	float: left;
+	margin-top: 15px;
+}
+.gray {
+	background: #4A4A4A;
+	width: 20%;
+
+}
+.skyblue {
+	background: #4A90E2;
+	width: 70%;
+}
+.ured {
+	background: #D0021B;
+	width: 5%;
+}
+
+
+
