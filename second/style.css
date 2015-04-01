@@ -1,0 +1,83 @@
+html body {
+	background: #D8D8D8;
+	width: 100%;
+	height: 100%;
+}
+.container {
+}
+
+.top {
+	margin: 0 auto;
+	background: white;
+	width: 90%;	
+	padding: 20px;
+	border: 30px solid #D8D8D8;
+
+}
+.ipsum {
+}
+
+.impsum p {
+	font-size: 14px;
+	color: white;
+	padding: 15 px;
+}
+
+button {
+	font-size: 20px;
+	padding: 15px 40px;
+	margin-right: 15px;
+}
+
+.red {
+	background: #D0021B ;
+}
+.blue {
+	background: #4A90E2;
+}
+.bottom {
+	margin: 0 auto;
+	background: white;
+	height: 600px;
+	width: 90%;
+	padding: 20px;
+	border: 30px solid #D8D8D8;
+	display: flex;
+	flex-direction: column;
+
+} 
+.greybox {
+	height: 400px;
+	width: 90%;
+	margin: 0 auto;
+	background: #4A4A4A;
+	display: flex;
+	align-items: center;
+
+
+}
+.greybox-text {
+	color: white;
+	margin: 0 auto;
+	font-size: 40px;
+
+}
+.baseboard {
+	width:100%;
+	height: 100px;
+	background: #4A4A4A;
+}
+.baseboard ul {
+	display: flex;
+	padding-right: 50px;
+	justify-content: flex-end;
+	align-items: center;
+}
+.baseboard ul li {
+	padding-right: 20px;
+	list-style-type: none;
+}
+.baseboard ul li a {
+	color:white;
+	text-decoration: none;
+}
