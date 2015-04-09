@@ -25,7 +25,6 @@ html body{
 }
 .column {
 	-webkit-column-count: 2;
-	clear: both;
 }
 .image {
 	background: gray;
